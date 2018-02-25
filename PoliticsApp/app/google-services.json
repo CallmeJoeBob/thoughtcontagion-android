@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "467138186653",
+    "firebase_url": "https://politics-567a4.firebaseio.com",
+    "project_id": "politics-567a4",
+    "storage_bucket": "politics-567a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467138186653:android:ede6f1c0f4c7ef4a",
+        "android_client_info": {
+          "package_name": "com.hackillinois2018.politicsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467138186653-uhq00hnn1ra9ho70i1rff23q6f001cec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackillinois2018.politicsapp",
+            "certificate_hash": "9db24e8016e6dd1f956fb64e4fb75b6ec78e21b3"
+          }
+        },
+        {
+          "client_id": "467138186653-t658ru5c0hev82abvdof77ib0ie5a4u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGO1ZZtNvBR_BMqjBYzVeibG1LwQ35hqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467138186653-t658ru5c0hev82abvdof77ib0ie5a4u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
